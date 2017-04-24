@@ -1,0 +1,97 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>wakfu.mod</Name>
+  <DisplayName>Mods</DisplayName>
+  <Description xml:lang="en">Modifications</Description>
+  <Description xml:lang="ru">Модификации</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2017-04-24</ReleaseDate>
+  <SortingPriority>90</SortingPriority>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>mods.js</Script>
+  <UpdateFile UncompressedSize="0" CompressedSize="0" OS="Any"/>
+  <SHA1>419da90c6f3802878ab226546e5ed805e5f7b514</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.mod.rus</Name>
+  <DisplayName>Russian Localization</DisplayName>
+  <Description xml:lang="en">Russian Localization. Translated: https://github.com/Valianton/Wakfu-Translate</Description>
+  <Description xml:lang="ru">Руссификация Wakfu. Перевод: https://github.com/Valianton/Wakfu-Translate</Description>
+  <Version>1.5.3</Version>
+  <ReleaseDate>2017-04-21</ReleaseDate>
+  <SortingPriority>100</SortingPriority>
+  <Default>true</Default>
+  <Script>mod.js</Script>
+  <UpdateFile UncompressedSize="9779161" CompressedSize="1882351" OS="Any"/>
+  <DownloadableArchives>rus.7z</DownloadableArchives>
+  <SHA1>8d39a3848e28c1c8eadf29684cc49b86e2d30114</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.plugin.loader</Name>
+  <DisplayName>Mod Loader Plugin</DisplayName>
+  <Description xml:lang="en">Wakfu plugin that adds support for loading in-game modifications. The plugin developed by sergiodreamswork@gmail.com</Description>
+  <Description xml:lang="ru">Wakfu плагин для загрузки модификаций. Плагин разработан sergiodreamswork@gmail.com</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2017-04-24</ReleaseDate>
+  <SortingPriority>100</SortingPriority>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>os.js</Script>
+  <UpdateFile UncompressedSize="0" CompressedSize="0" OS="Any"/>
+  <SHA1>bc157afab094cdb685f7fd2fb6fcf1714717733d</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.plugin.loader.linux.i386</Name>
+  <DisplayName>Linux 32bit</DisplayName>
+  <Description xml:lang="en">Supports Linux i386 architecture</Description>
+  <Description xml:lang="ru">Версия для Linux i386</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2017-04-24</ReleaseDate>
+  <Virtual>true</Virtual>
+  <Script>plugin.js</Script>
+  <UpdateFile UncompressedSize="237980" CompressedSize="85828" OS="Any"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>be013a56a5da78bed4095b8be6416c49402e869a</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.plugin.loader.linux.x86_64</Name>
+  <DisplayName>Linux 64bit</DisplayName>
+  <Description xml:lang="en">Supports Linux x86_64 architecture</Description>
+  <Description xml:lang="ru">Версия для Linux x86_64</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2017-04-24</ReleaseDate>
+  <Virtual>true</Virtual>
+  <Script>plugin.js</Script>
+  <UpdateFile UncompressedSize="239164" CompressedSize="83225" OS="Any"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>e05d3c0132c63ac05a35aebc5dfedd8318dabac8</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.plugin.loader.osx</Name>
+  <DisplayName>Mac OS version</DisplayName>
+  <Description xml:lang="en">Supports from Mac OS X Lion (10.7) to macOS Sierra (10.12)</Description>
+  <Description xml:lang="ru">Версия для Mac OS X Lion (10.7) и выше</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2017-04-24</ReleaseDate>
+  <Virtual>true</Virtual>
+  <Script>plugin.js</Script>
+  <UpdateFile UncompressedSize="215396" CompressedSize="74385" OS="Any"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>3d08a502db243c774da11d091bf53cc0f5c45f93</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.plugin.loader.windows</Name>
+  <DisplayName>Windows version</DisplayName>
+  <Description xml:lang="en">Supports from Windows XP to Windows 10</Description>
+  <Description xml:lang="ru">Поддерживает от Windows XP до Windows 10</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2017-04-24</ReleaseDate>
+  <Virtual>true</Virtual>
+  <Script>plugin.js</Script>
+  <UpdateFile UncompressedSize="123484" CompressedSize="119345" OS="Any"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>0645940539be89791df5e752282c589b577b4f87</SHA1>
+ </PackageUpdate>
+</Updates>
