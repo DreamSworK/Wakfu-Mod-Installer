@@ -58,7 +58,7 @@
 2. Вручную
 
 ## *Автоматический способ установки:*
-Просто скачиваете нужную версию инсталлятора в зависимости от вашей операционной системы, запускаете и следуете инструкциям. Больше ничего не нужно, инсталлятор всё сделает сам. Плагин и моды автоматически будут загружаться при запуске *стандартного аддейтера Wakfu*.
+Просто скачиваете нужную версию инсталлятора в зависимости от вашей операционной системы, запускаете и следуете инструкциям. Больше ничего не нужно, инсталлятор всё сделает сам. Плагин и моды автоматически будут загружаться при запуске *стандартного аддейтера Wakfu*. Рекомендуемый способ установки.
 
 Ниже приведены ссылки на скачивание инсталлятора в зависимости от вашей операционной системы:
 
@@ -68,6 +68,9 @@ Windows | Windows XP and later | [Wakfu Mod Installer for Windows](https://githu
 Mac OS | Mac OS X 10.7 and later | [Wakfu Mod Installer for Mac OS](https://github.com/DreamSworK/Wakfu-Mod-Installer/files/952516/WakfuModInstaller.osx.zip)
 Linux 32-bit | Ubuntu 11.10 and later | [Wakfu Mod Installer for Linux i386](https://github.com/DreamSworK/Wakfu-Mod-Installer/files/952517/WakfuModInstaller.linux.i386.zip)
 Linux 64-bit | Ubuntu 11.10 and later | [Wakfu Mod Installer for Linux x86_64](https://github.com/DreamSworK/Wakfu-Mod-Installer/files/952518/WakfuModInstaller.linux.x86_64.zip)
+
+###### *Примечание:*
+> В случае каких либо проблем с автоматической установкой, используйте метод установки вручную.
 
 ## *Установка вручную:*
 
@@ -139,6 +142,9 @@ Steam | /home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/game/mods/
 Если плагин установлен корректно, то при запуске апдейтера вы увидете информацию о загруженном плагине и загруженных модификациях:
 
 ### Используемые файлы и пути на примере мода руссификаци:
+
+###### *Примечание:*
+> Сам мод *"Руссификация Wakfu"* можно скачать по [ссылке](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.mod.rus/1.5.3rus.7z)
 
 Путь         | Описание
 ------------ | ----------------------
