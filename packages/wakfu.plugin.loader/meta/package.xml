@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Mod Loader Plugin</DisplayName>
+    <Description xml:lang="en">Wakfu plugin that adds support for loading in-game modifications. The plugin developed by sergiodreamswork@gmail.com</Description>
+    <Description xml:lang="ru">Wakfu плагин для загрузки модификаций. Плагин разработан sergiodreamswork@gmail.com</Description>
+    <Version>1.0.0</Version>
+    <ReleaseDate>2017-04-24</ReleaseDate>
+    <SortingPriority>100</SortingPriority>
+    <ForcedInstallation>true</ForcedInstallation>
+    <Script>os.js</Script>
+</Package>

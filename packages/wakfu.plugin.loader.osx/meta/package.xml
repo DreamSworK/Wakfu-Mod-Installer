@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Package>
+    <DisplayName>Mac OS version</DisplayName>
+    <Description xml:lang="en">Supports from Mac OS X Lion (10.7) to macOS Sierra (10.12)</Description>
+    <Description xml:lang="ru">Версия для Mac OS X Lion (10.7) и выше</Description>
+    <Version>1.0.0</Version>
+    <ReleaseDate>2017-04-24</ReleaseDate>
+    <Virtual>true</Virtual>
+    <Script>plugin.js</Script>
+</Package>
