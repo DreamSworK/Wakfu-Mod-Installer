@@ -143,7 +143,7 @@ Steam        | `/home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/game/mo
 
 ![Installed](/images/windows_updater.jpg)
 
-### Используемые файлы и пути на примере мода руссификаци:
+### Используемые файлы и пути на примере мода руссификации:
 
 ###### *Примечание:*
 > Сам мод *"Руссификация Wakfu"* можно скачать по [ссылке](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.mod.rus/1.5.3rus.7z)
