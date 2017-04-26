@@ -66,8 +66,8 @@ OS           | Version       | File
 ------------ | ------------- | -------------
 Windows | Windows XP and later | [Wakfu Mod Installer for Windows](https://github.com/DreamSworK/Wakfu-Mod-Installer/files/952505/WakfuModInstaller.windows.zip)
 Mac OS | Mac OS X 10.7 and later | [Wakfu Mod Installer for Mac OS](https://github.com/DreamSworK/Wakfu-Mod-Installer/files/952516/WakfuModInstaller.osx.zip)
-Linux 32-bit | Ubuntu 11.10 and later | [Wakfu Mod Installer for Linux i386](https://github.com/DreamSworK/Wakfu-Mod-Installer/files/952517/WakfuModInstaller.linux.i386.zip)
-Linux 64-bit | Ubuntu 11.10 and later | [Wakfu Mod Installer for Linux x86_64](https://github.com/DreamSworK/Wakfu-Mod-Installer/files/952518/WakfuModInstaller.linux.x86_64.zip)
+Linux 32-bit | Ubuntu 11.10 and later | [Wakfu Mod Installer for Linux i386](https://github.com/DreamSworK/Wakfu-Mod-Installer/files/957995/WakfuModInstaller.linux.i386.tar.gz)
+Linux 64-bit | Ubuntu 11.10 and later | [Wakfu Mod Installer for Linux x86_64](https://github.com/DreamSworK/Wakfu-Mod-Installer/files/957999/WakfuModInstaller.linux.x86_64.tar.gz)
 
 ###### *Примечание:*
 > В случае каких либо проблем с автоматической установкой, используйте метод установки вручную.
@@ -170,12 +170,12 @@ Steam        | `/home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/game/mo
 
 ### Windows (Windows 8.1 x64):
 
-![Installed](/images/windows_installer.jpg)
+![Windows 8.1 x64](/images/windows_installer.jpg)
 
 ### Mac OS (OS X Mavericks 10.9.5):
 
-![Installed](/images/osx_installer.jpg)
+![OS X Mavericks 10.9.5](/images/osx_installer.jpg)
 
 ### Linux (Ubuntu 16.04.2 LTS):
 
-![Installed](/images/linux_installer.jpg)
+![Ubuntu 16.04.2 LTS](/images/linux_installer.jpg)
