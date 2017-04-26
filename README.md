@@ -80,12 +80,12 @@ Linux 64-bit | Ubuntu 11.10 and later | [Wakfu Mod Installer for Linux x86_64](h
 
 ### 1. Скачиваем **Wakfu Mod Loader Plugin** для вашей операционной системы
 
-OS                   | Version             | File
------------- | ------------- | -------------
-Windows | Windows XP and later | [Loader Plugin for Windows](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.windows/1.0.0content.7z)
-Mac OS | Mac OS X 10.7 and later | [Loader Plugin for Mac OS](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.osx/1.0.0content.7z)
-Linux 32-bit | Ubuntu 11.10 and later | [Loader Plugin for Linux i386](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.linux.i386/1.0.0content.7z)
-Linux 64-bit | Ubuntu 11.10 and later | [Loader Plugin for Linux x86_64](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.linux.x86_64/1.0.0content.7z)
+OS           | Version                 | File
+------------ | ----------------------- | -------------
+Windows      | Windows XP and later    | [Loader Plugin for Windows](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.windows/1.0.0content.7z)
+Mac OS       | Mac OS X 10.7 and later | [Loader Plugin for Mac OS](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.osx/1.0.0content.7z)
+Linux 32-bit | Ubuntu 11.10 and later  | [Loader Plugin for Linux i386](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.linux.i386/1.0.0content.7z)
+Linux 64-bit | Ubuntu 11.10 and later  | [Loader Plugin for Linux x86_64](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.linux.x86_64/1.0.0content.7z)
 
 ### 2. Устанавливаем *Wakfu Mod Loader Plugin*
 
@@ -96,22 +96,22 @@ Linux 64-bit | Ubuntu 11.10 and later | [Loader Plugin for Linux x86_64](https:/
 
 Версия Wakfu | Путь установки плагина
 ------------ | ----------------------
-Обычная | C:\Program Files (x86)\Ankama\Wakfu\transition\plugins\updater\
-Steam | C:\Program Files (x86)\Steam\steamapps\common\Wakfu\transition\plugins\updater\
+Обычная      | ```C:\Program Files (x86)\Ankama\Wakfu\transition\plugins\updater\```
+Steam        | ```C:\Program Files (x86)\Steam\steamapps\common\Wakfu\transition\plugins\updater\```
 
 ### Mac OS:
 
 Версия Wakfu | Путь установки плагина
 ------------ | ----------------------
-Обычная | /Applications/Wakfu.app/Contents/Data/Updater Wakfu.app/Contents/PlugIns/updater/
-Steam | /Users/[Имя]/Library/Application Support/Steam/steamapps/common/Wakfu/Updater Wakfu.app/Contents/PlugIns/updater/
+Обычная      | ```/Applications/Wakfu.app/Contents/Data/Updater Wakfu.app/Contents/PlugIns/updater/```
+Steam        | ```/Users/[Имя]/Library/Application Support/Steam/steamapps/common/Wakfu/Updater Wakfu.app/Contents/PlugIns/updater/```
 
 ### Linux:
 
 Версия Wakfu | Путь установки плагина
 ------------ | ----------------------
-Обычная | [Ваш путь к Wakfu]/transition/plugins/updater/
-Steam | /home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/transition/plugins/updater/
+Обычная      | ```[Ваш путь к Wakfu]/transition/plugins/updater/```
+Steam        | ```/home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/transition/plugins/updater/```
 
 ### 3. Устанавливаем моды
 
@@ -122,22 +122,22 @@ Steam | /home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/transition/plug
 
 Версия Wakfu | Путь для установки модов
 ------------ | ----------------------
-Обычная | C:\Program Files (x86)\Ankama\Wakfu\game\mods\
-Steam | C:\Program Files (x86)\Steam\steamapps\common\Wakfu\game\mods\
+Обычная      | ```C:\Program Files (x86)\Ankama\Wakfu\game\mods\```
+Steam        | ```C:\Program Files (x86)\Steam\steamapps\common\Wakfu\game\mods\```
 
 ### Mac OS:
 
 Версия Wakfu | Путь для установки модов
 ------------ | ----------------------
-Обычная | /Applications/Wakfu.app/Contents/Data/Wakfu.app/Contents/Resources/mods/
-Steam | /Users/[Имя]/Library/Application Support/Steam/steamapps/common/Wakfu/game/mods/
+Обычная      | ```/Applications/Wakfu.app/Contents/Data/Wakfu.app/Contents/Resources/mods/```
+Steam        | ```/Users/[Имя]/Library/Application Support/Steam/steamapps/common/Wakfu/game/mods/```
 
 ### Linux:
 
 Версия Wakfu | Путь для установки модов
 ------------ | ----------------------
-Обычная | [Ваш путь к Wakfu]/game/mods/
-Steam | /home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/game/mods/
+Обычная      | ```[Ваш путь к Wakfu]/game/mods/```
+Steam        | ```/home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/game/mods/```
 
 Если плагин установлен корректно, то при запуске апдейтера вы увидете информацию о загруженном плагине и загруженных модификациях:
 
@@ -146,12 +146,12 @@ Steam | /home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/game/mods/
 ###### *Примечание:*
 > Сам мод *"Руссификация Wakfu"* можно скачать по [ссылке](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.mod.rus/1.5.3rus.7z)
 
-Путь         | Описание
------------- | ----------------------
-[Ваш путь к Wakfu]/game/mods/rus/ | Папка с модом
-[Ваш путь к Wakfu]/game/mods/rus/fonts.jar | Шрифты
-[Ваш путь к Wakfu]/game/mods/rus/rus.ini | Настройки мода
-[Ваш путь к Wakfu]/game/mods/rus/texts_ru.properties | Файл локализации
+Путь                                                       | Описание
+---------------------------------------------------------- | ----------------------
+```[Ваш путь к Wakfu]/game/mods/rus/```                    | Папка с модом
+```[Ваш путь к Wakfu]/game/mods/rus/fonts.jar```           | Шрифты
+```[Ваш путь к Wakfu]/game/mods/rus/rus.ini```             | Настройки мода
+```[Ваш путь к Wakfu]/game/mods/rus/texts_ru.properties``` | Файл локализации
 
 ----------------------------------------
 
