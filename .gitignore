@@ -1,1 +1,7 @@
 .DS_Store
+*.sh
+*.cmd
+*.log
+doc/
+build/
+config/
