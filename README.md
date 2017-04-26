@@ -146,7 +146,7 @@ Steam        | `/home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/game/mo
 ### Используемые файлы и пути на примере мода руссификации:
 
 ###### *Примечание:*
-> Сам мод *"Руссификация Wakfu"* можно скачать по [ссылке](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.mod.rus/1.5.3rus.7z)
+> Сам мод *"Руссификация Wakfu"* можно скачать по [ссылке](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.mod.rus/1.5.6rus.7z)
 
 Путь                                                   | Описание
 ------------------------------------------------------ | ----------------------
