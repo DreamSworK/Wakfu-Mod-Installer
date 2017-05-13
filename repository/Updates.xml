@@ -12,7 +12,7 @@
   <SortingPriority>90</SortingPriority>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>mods.js</Script>
-  <UpdateFile CompressedSize="0" OS="Any" UncompressedSize="0"/>
+  <UpdateFile OS="Any" UncompressedSize="0" CompressedSize="0"/>
   <SHA1>419da90c6f3802878ab226546e5ed805e5f7b514</SHA1>
  </PackageUpdate>
  <PackageUpdate>
@@ -25,7 +25,7 @@
   <SortingPriority>100</SortingPriority>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>os.js</Script>
-  <UpdateFile CompressedSize="0" OS="Any" UncompressedSize="0"/>
+  <UpdateFile OS="Any" UncompressedSize="0" CompressedSize="0"/>
   <SHA1>bc157afab094cdb685f7fd2fb6fcf1714717733d</SHA1>
  </PackageUpdate>
  <PackageUpdate>
@@ -37,7 +37,7 @@
   <ReleaseDate>2017-04-24</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile CompressedSize="85828" OS="Any" UncompressedSize="237980"/>
+  <UpdateFile OS="Any" UncompressedSize="237980" CompressedSize="85828"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>be013a56a5da78bed4095b8be6416c49402e869a</SHA1>
  </PackageUpdate>
@@ -50,7 +50,7 @@
   <ReleaseDate>2017-04-24</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile CompressedSize="83225" OS="Any" UncompressedSize="239164"/>
+  <UpdateFile OS="Any" UncompressedSize="239164" CompressedSize="83225"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>e05d3c0132c63ac05a35aebc5dfedd8318dabac8</SHA1>
  </PackageUpdate>
@@ -63,7 +63,7 @@
   <ReleaseDate>2017-04-24</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile CompressedSize="74385" OS="Any" UncompressedSize="215396"/>
+  <UpdateFile OS="Any" UncompressedSize="215396" CompressedSize="74385"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>3d08a502db243c774da11d091bf53cc0f5c45f93</SHA1>
  </PackageUpdate>
@@ -76,7 +76,7 @@
   <ReleaseDate>2017-04-24</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile CompressedSize="119345" OS="Any" UncompressedSize="123484"/>
+  <UpdateFile OS="Any" UncompressedSize="123484" CompressedSize="119345"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>0645940539be89791df5e752282c589b577b4f87</SHA1>
  </PackageUpdate>
@@ -85,13 +85,13 @@
   <DisplayName>Russian Localization</DisplayName>
   <Description xml:lang="en">Russian Localization. Translated: https://github.com/Valianton/Wakfu-Translate</Description>
   <Description xml:lang="ru">Руссификация Wakfu. Перевод: https://github.com/Valianton/Wakfu-Translate</Description>
-  <Version>1.6.1</Version>
+  <Version>1.6.2</Version>
   <ReleaseDate>2017-05-07</ReleaseDate>
   <SortingPriority>100</SortingPriority>
   <Default>true</Default>
   <Script>mod.js</Script>
-  <UpdateFile CompressedSize="1926587" OS="Any" UncompressedSize="10202247"/>
+  <UpdateFile UncompressedSize="10220413" OS="Any" CompressedSize="1927670"/>
   <DownloadableArchives>rus.7z</DownloadableArchives>
-  <SHA1>a19be6b2a502f2d70eef584e9f7beba6436497e1</SHA1>
+  <SHA1>edc40edb521eba9a2062513c573688774914f718</SHA1>
  </PackageUpdate>
 </Updates>
