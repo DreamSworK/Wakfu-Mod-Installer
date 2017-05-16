@@ -12,7 +12,7 @@
   <SortingPriority>90</SortingPriority>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>mods.js</Script>
-  <UpdateFile OS="Any" UncompressedSize="0" CompressedSize="0"/>
+  <UpdateFile UncompressedSize="0" OS="Any" CompressedSize="0"/>
   <SHA1>419da90c6f3802878ab226546e5ed805e5f7b514</SHA1>
  </PackageUpdate>
  <PackageUpdate>
@@ -25,60 +25,8 @@
   <SortingPriority>100</SortingPriority>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>os.js</Script>
-  <UpdateFile OS="Any" UncompressedSize="0" CompressedSize="0"/>
+  <UpdateFile UncompressedSize="0" OS="Any" CompressedSize="0"/>
   <SHA1>bc157afab094cdb685f7fd2fb6fcf1714717733d</SHA1>
- </PackageUpdate>
- <PackageUpdate>
-  <Name>wakfu.plugin.loader.linux.i386</Name>
-  <DisplayName>Linux 32bit</DisplayName>
-  <Description xml:lang="en">Supports Linux i386 architecture</Description>
-  <Description xml:lang="ru">Версия для Linux i386</Description>
-  <Version>1.0.0</Version>
-  <ReleaseDate>2017-04-24</ReleaseDate>
-  <Virtual>true</Virtual>
-  <Script>plugin.js</Script>
-  <UpdateFile OS="Any" UncompressedSize="237980" CompressedSize="85828"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>be013a56a5da78bed4095b8be6416c49402e869a</SHA1>
- </PackageUpdate>
- <PackageUpdate>
-  <Name>wakfu.plugin.loader.linux.x86_64</Name>
-  <DisplayName>Linux 64bit</DisplayName>
-  <Description xml:lang="en">Supports Linux x86_64 architecture</Description>
-  <Description xml:lang="ru">Версия для Linux x86_64</Description>
-  <Version>1.0.0</Version>
-  <ReleaseDate>2017-04-24</ReleaseDate>
-  <Virtual>true</Virtual>
-  <Script>plugin.js</Script>
-  <UpdateFile OS="Any" UncompressedSize="239164" CompressedSize="83225"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>e05d3c0132c63ac05a35aebc5dfedd8318dabac8</SHA1>
- </PackageUpdate>
- <PackageUpdate>
-  <Name>wakfu.plugin.loader.osx</Name>
-  <DisplayName>Mac OS version</DisplayName>
-  <Description xml:lang="en">Supports from Mac OS X Lion (10.7) to macOS Sierra (10.12)</Description>
-  <Description xml:lang="ru">Версия для Mac OS X Lion (10.7) и выше</Description>
-  <Version>1.0.0</Version>
-  <ReleaseDate>2017-04-24</ReleaseDate>
-  <Virtual>true</Virtual>
-  <Script>plugin.js</Script>
-  <UpdateFile OS="Any" UncompressedSize="215396" CompressedSize="74385"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>3d08a502db243c774da11d091bf53cc0f5c45f93</SHA1>
- </PackageUpdate>
- <PackageUpdate>
-  <Name>wakfu.plugin.loader.windows</Name>
-  <DisplayName>Windows version</DisplayName>
-  <Description xml:lang="en">Supports from Windows XP to Windows 10</Description>
-  <Description xml:lang="ru">Поддерживает от Windows XP до Windows 10</Description>
-  <Version>1.0.0</Version>
-  <ReleaseDate>2017-04-24</ReleaseDate>
-  <Virtual>true</Virtual>
-  <Script>plugin.js</Script>
-  <UpdateFile OS="Any" UncompressedSize="123484" CompressedSize="119345"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>0645940539be89791df5e752282c589b577b4f87</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>wakfu.mod.rus</Name>
@@ -93,5 +41,57 @@
   <UpdateFile UncompressedSize="10220413" OS="Any" CompressedSize="1927670"/>
   <DownloadableArchives>rus.7z</DownloadableArchives>
   <SHA1>edc40edb521eba9a2062513c573688774914f718</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.plugin.loader.linux.i386</Name>
+  <DisplayName>Linux 32bit</DisplayName>
+  <Description xml:lang="en">Supports Linux i386 architecture</Description>
+  <Description xml:lang="ru">Версия для Linux i386</Description>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2017-05-16</ReleaseDate>
+  <Virtual>true</Virtual>
+  <Script>plugin.js</Script>
+  <UpdateFile UncompressedSize="251280" OS="Any" CompressedSize="89560"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>efb765bc63866e1bd47c7dca3317ef1651a04f88</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.plugin.loader.linux.x86_64</Name>
+  <DisplayName>Linux 64bit</DisplayName>
+  <Description xml:lang="en">Supports Linux x86_64 architecture</Description>
+  <Description xml:lang="ru">Версия для Linux x86_64</Description>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2017-05-16</ReleaseDate>
+  <Virtual>true</Virtual>
+  <Script>plugin.js</Script>
+  <UpdateFile UncompressedSize="252716" OS="Any" CompressedSize="86806"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>a2e9cad3e4fa11e5fb8ac445878d31ce087057e2</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.plugin.loader.osx</Name>
+  <DisplayName>Mac OS version</DisplayName>
+  <Description xml:lang="en">Supports from Mac OS X Lion (10.7) to macOS Sierra (10.12)</Description>
+  <Description xml:lang="ru">Версия для Mac OS X Lion (10.7) и выше</Description>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2017-05-16</ReleaseDate>
+  <Virtual>true</Virtual>
+  <Script>plugin.js</Script>
+  <UpdateFile UncompressedSize="225224" OS="Any" CompressedSize="76340"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>858879c6042e28fa7bfcc2849f7b223ca773858c</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.plugin.loader.windows</Name>
+  <DisplayName>Windows version</DisplayName>
+  <Description xml:lang="en">Supports from Windows XP to Windows 10</Description>
+  <Description xml:lang="ru">Поддерживает от Windows XP до Windows 10</Description>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2017-05-16</ReleaseDate>
+  <Virtual>true</Virtual>
+  <Script>plugin.js</Script>
+  <UpdateFile UncompressedSize="125532" OS="Any" CompressedSize="121528"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>10ad60e9a2c2cd2add73f1c93a8ebeb29b72f87c</SHA1>
  </PackageUpdate>
 </Updates>
