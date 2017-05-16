@@ -82,10 +82,10 @@ Linux 64-bit | Ubuntu 11.10 and later | [Wakfu Mod Installer for Linux x86_64](h
 
 OS           | Version                 | File
 ------------ | ----------------------- | -------------
-Windows      | Windows XP and later    | [Loader Plugin for Windows](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.windows/1.0.0content.7z)
-Mac OS       | Mac OS X 10.7 and later | [Loader Plugin for Mac OS](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.osx/1.0.0content.7z)
-Linux 32-bit | Ubuntu 11.10 and later  | [Loader Plugin for Linux i386](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.linux.i386/1.0.0content.7z)
-Linux 64-bit | Ubuntu 11.10 and later  | [Loader Plugin for Linux x86_64](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.linux.x86_64/1.0.0content.7z)
+Windows      | Windows XP and later    | [Loader Plugin for Windows](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.windows/1.0.1content.7z)
+Mac OS       | Mac OS X 10.7 and later | [Loader Plugin for Mac OS](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.osx/1.0.1content.7z)
+Linux 32-bit | Ubuntu 11.10 and later  | [Loader Plugin for Linux i386](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.linux.i386/1.0.1content.7z)
+Linux 64-bit | Ubuntu 11.10 and later  | [Loader Plugin for Linux x86_64](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.plugin.loader.linux.x86_64/1.0.1content.7z)
 
 ### 2. Устанавливаем *Wakfu Mod Loader Plugin*
 
@@ -146,7 +146,7 @@ Steam        | `/home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/game/mo
 ### Используемые файлы и пути на примере мода руссификации:
 
 ###### *Примечание:*
-> Сам мод *"Руссификация Wakfu"* можно скачать по [ссылке](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.mod.rus/1.5.6rus.7z)
+> Сам мод *"Руссификация Wakfu"* можно скачать по [ссылке](https://github.com/DreamSworK/Wakfu-Mod-Installer/raw/master/repository/wakfu.mod.rus/1.6.2rus.7z)
 
 Путь                                                   | Описание
 ------------------------------------------------------ | ----------------------
