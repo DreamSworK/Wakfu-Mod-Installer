@@ -12,7 +12,7 @@
   <SortingPriority>90</SortingPriority>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>mods.js</Script>
-  <UpdateFile UncompressedSize="0" OS="Any" CompressedSize="0"/>
+  <UpdateFile CompressedSize="0" UncompressedSize="0" OS="Any"/>
   <SHA1>419da90c6f3802878ab226546e5ed805e5f7b514</SHA1>
  </PackageUpdate>
  <PackageUpdate>
@@ -25,22 +25,8 @@
   <SortingPriority>100</SortingPriority>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>os.js</Script>
-  <UpdateFile UncompressedSize="0" OS="Any" CompressedSize="0"/>
+  <UpdateFile CompressedSize="0" UncompressedSize="0" OS="Any"/>
   <SHA1>bc157afab094cdb685f7fd2fb6fcf1714717733d</SHA1>
- </PackageUpdate>
- <PackageUpdate>
-  <Name>wakfu.mod.rus</Name>
-  <DisplayName>Russian Localization</DisplayName>
-  <Description xml:lang="en">Russian Localization. Translated: https://github.com/Valianton/Wakfu-Translate</Description>
-  <Description xml:lang="ru">Руссификация Wakfu. Перевод: https://github.com/Valianton/Wakfu-Translate</Description>
-  <Version>1.6.2</Version>
-  <ReleaseDate>2017-05-07</ReleaseDate>
-  <SortingPriority>100</SortingPriority>
-  <Default>true</Default>
-  <Script>mod.js</Script>
-  <UpdateFile UncompressedSize="10220413" OS="Any" CompressedSize="1927670"/>
-  <DownloadableArchives>rus.7z</DownloadableArchives>
-  <SHA1>edc40edb521eba9a2062513c573688774914f718</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>wakfu.plugin.loader.linux.i386</Name>
@@ -51,7 +37,7 @@
   <ReleaseDate>2017-05-16</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile UncompressedSize="251280" OS="Any" CompressedSize="89560"/>
+  <UpdateFile CompressedSize="89560" UncompressedSize="251280" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>efb765bc63866e1bd47c7dca3317ef1651a04f88</SHA1>
  </PackageUpdate>
@@ -64,7 +50,7 @@
   <ReleaseDate>2017-05-16</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile UncompressedSize="252716" OS="Any" CompressedSize="86806"/>
+  <UpdateFile CompressedSize="86806" UncompressedSize="252716" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>a2e9cad3e4fa11e5fb8ac445878d31ce087057e2</SHA1>
  </PackageUpdate>
@@ -77,7 +63,7 @@
   <ReleaseDate>2017-05-16</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile UncompressedSize="225224" OS="Any" CompressedSize="76340"/>
+  <UpdateFile CompressedSize="76340" UncompressedSize="225224" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>858879c6042e28fa7bfcc2849f7b223ca773858c</SHA1>
  </PackageUpdate>
@@ -90,8 +76,22 @@
   <ReleaseDate>2017-05-16</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile UncompressedSize="125532" OS="Any" CompressedSize="121528"/>
+  <UpdateFile CompressedSize="121528" UncompressedSize="125532" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>10ad60e9a2c2cd2add73f1c93a8ebeb29b72f87c</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.mod.rus</Name>
+  <DisplayName>Russian Localization</DisplayName>
+  <Description xml:lang="en">Russian Localization. Translated: https://github.com/Valianton/Wakfu-Translate</Description>
+  <Description xml:lang="ru">Руссификация Wakfu. Перевод: https://github.com/Valianton/Wakfu-Translate</Description>
+  <Version>1.6.3</Version>
+  <ReleaseDate>2017-05-17</ReleaseDate>
+  <SortingPriority>100</SortingPriority>
+  <Default>true</Default>
+  <Script>mod.js</Script>
+  <UpdateFile CompressedSize="1929624" UncompressedSize="10255537" OS="Any"/>
+  <DownloadableArchives>rus.7z</DownloadableArchives>
+  <SHA1>4663b18997ca60a7f6cdad8b518a7b4a68e8cf04</SHA1>
  </PackageUpdate>
 </Updates>
