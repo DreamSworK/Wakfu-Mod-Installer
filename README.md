@@ -157,9 +157,9 @@ Steam        | `/home/[Имя]/.local/share/Steam/steamapps/common/Wakfu/game/mo
 
 ----------------------------------------
 
-### Описание синтаксиса настройки модов:
+# Описание синтаксиса настройки модов:
 
-> Будет доступно в ближайшее время...
+[Wakfu Mod Loader Settings](https://github.com/DreamSworK/Wakfu-Mod-Installer/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA-%D0%BC%D0%BE%D0%B4%D0%BE%D0%B2)
 
 ----------------------------------------
 
