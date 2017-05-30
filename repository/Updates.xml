@@ -12,7 +12,7 @@
   <SortingPriority>90</SortingPriority>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>mods.js</Script>
-  <UpdateFile UncompressedSize="0" OS="Any" CompressedSize="0"/>
+  <UpdateFile CompressedSize="0" UncompressedSize="0" OS="Any"/>
   <SHA1>419da90c6f3802878ab226546e5ed805e5f7b514</SHA1>
  </PackageUpdate>
  <PackageUpdate>
@@ -25,7 +25,7 @@
   <SortingPriority>100</SortingPriority>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>os.js</Script>
-  <UpdateFile UncompressedSize="0" OS="Any" CompressedSize="0"/>
+  <UpdateFile CompressedSize="0" UncompressedSize="0" OS="Any"/>
   <SHA1>bc157afab094cdb685f7fd2fb6fcf1714717733d</SHA1>
  </PackageUpdate>
  <PackageUpdate>
@@ -38,7 +38,7 @@
   <SortingPriority>100</SortingPriority>
   <Default>true</Default>
   <Script>mod.js</Script>
-  <UpdateFile UncompressedSize="11009786" OS="Any" CompressedSize="2127148"/>
+  <UpdateFile CompressedSize="2127148" UncompressedSize="11009786" OS="Any"/>
   <DownloadableArchives>rus.7z</DownloadableArchives>
   <SHA1>edf8c54412619a599c6f5a502cfcbed567371447</SHA1>
  </PackageUpdate>
@@ -51,7 +51,7 @@
   <ReleaseDate>2017-05-29</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile UncompressedSize="269152" OS="Any" CompressedSize="95013"/>
+  <UpdateFile CompressedSize="95013" UncompressedSize="269152" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>3fd6e3ffb50c945ca4854d298f76121481a52126</SHA1>
  </PackageUpdate>
@@ -64,7 +64,7 @@
   <ReleaseDate>2017-05-29</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile UncompressedSize="270908" OS="Any" CompressedSize="92171"/>
+  <UpdateFile CompressedSize="92171" UncompressedSize="270908" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>84ec6d14dc7c3b847e088f694a5e7954ee50da36</SHA1>
  </PackageUpdate>
@@ -77,7 +77,7 @@
   <ReleaseDate>2017-05-29</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile UncompressedSize="236340" OS="Any" CompressedSize="80078"/>
+  <UpdateFile CompressedSize="80078" UncompressedSize="236340" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>9b9809867ccb4404562b1569be1443fe5e035f42</SHA1>
  </PackageUpdate>
@@ -90,22 +90,22 @@
   <ReleaseDate>2017-05-29</ReleaseDate>
   <Virtual>true</Virtual>
   <Script>plugin.js</Script>
-  <UpdateFile UncompressedSize="129628" OS="Any" CompressedSize="125859"/>
+  <UpdateFile CompressedSize="125859" UncompressedSize="129628" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>329989b247c92f1b8bcbd6189abc66dbf0fbc150</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>wakfu.mod.chat</Name>
-  <DisplayName>Russian chat</DisplayName>
+  <DisplayName>Russian Chat</DisplayName>
   <Description xml:lang="en">Russian chat. Adds cyrillic support.</Description>
   <Description xml:lang="ru">Русский язык в чате. Добавляет поддержку кириллицы.</Description>
-  <Version>1.0.0</Version>
-  <ReleaseDate>2017-05-29</ReleaseDate>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2017-05-30</ReleaseDate>
   <SortingPriority>90</SortingPriority>
   <Default>false</Default>
   <Script>mod.js</Script>
-  <UpdateFile UncompressedSize="77389" OS="Any" CompressedSize="75083"/>
+  <UpdateFile CompressedSize="75081" UncompressedSize="77389" OS="Any"/>
   <DownloadableArchives>chat.7z</DownloadableArchives>
-  <SHA1>4bcd91344a3eab767316dc6fee5b372655e16acd</SHA1>
+  <SHA1>90ed168f4ee25c4fbc0cc952900b41bd1e9563b9</SHA1>
  </PackageUpdate>
 </Updates>

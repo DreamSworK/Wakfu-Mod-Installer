@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package>
-    <DisplayName>Russian chat</DisplayName>
+    <DisplayName>Russian Chat</DisplayName>
     <Description xml:lang="en">Russian chat. Adds cyrillic support.</Description>
     <Description xml:lang="ru">Русский язык в чате. Добавляет поддержку кириллицы.</Description>
-    <Version>1.0.0</Version>
-    <ReleaseDate>2017-05-29</ReleaseDate>
+    <Version>1.0.1</Version>
+    <ReleaseDate>2017-05-30</ReleaseDate>
     <SortingPriority>90</SortingPriority>
     <Default>false</Default>
     <Script>mod.js</Script>
