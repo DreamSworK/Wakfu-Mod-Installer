@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Custom Theme</DisplayName>
+    <Description xml:lang="en">Custom theme with bigger fonts.</Description>
+    <Description xml:lang="ru">Интерфейс с увеличенными шрифтами.</Description>
+    <Version>0.9.0</Version>
+    <ReleaseDate>2017-08-12</ReleaseDate>
+    <SortingPriority>80</SortingPriority>
+    <Default>false</Default>
+    <Script>mod.js</Script>
+</Package>
