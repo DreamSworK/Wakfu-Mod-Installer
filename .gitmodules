@@ -1,3 +1,4 @@
 [submodule "packages/wakfu.mod.rus"]
 	path = packages/wakfu.mod.rus
 	url = https://github.com/Valianton/Wakfu-Translate.git
+	branch = master
