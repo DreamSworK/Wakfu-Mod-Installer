@@ -1,2 +1,2 @@
 #!/bin/bash
-./tools/repogen --update-new-components -p packages repository
+./tools/mac/repogen --update-new-components -p packages repository
