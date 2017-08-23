@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Wakfu Mod Installer</Name>
+    <Version>1.0.0</Version>
+    <Title>Wakfu Mod Installer</Title>
+    <Publisher>DreamSworK</Publisher>
+    <ProductUrl>https://dreamswork.github.io/Wakfu-Mod-Installer</ProductUrl>
+    <InstallerApplicationIcon>installer</InstallerApplicationIcon>
+    <InstallerWindowIcon>installer</InstallerWindowIcon>
+    <Logo>logo.png</Logo>
+    <Watermark>watermark.png</Watermark>
+    <Background>background.png</Background>
+    <WizardStyle>Mac</WizardStyle><!-- Windows and Linux: 'Modern', OS X: 'Mac' -->
+    <WizardDefaultWidth>700</WizardDefaultWidth>
+    <TargetDir>@ApplicationsDir@</TargetDir>
+    <RemoteRepositories>
+        <Repository>
+            <Url>https://dreamswork.github.io/Wakfu-Mod-Installer/repository</Url>
+        </Repository>
+    </RemoteRepositories>
+    <MaintenanceToolName>WakfuModUpdater</MaintenanceToolName>
+    <MaintenanceToolIniFile>WakfuModUpdater.ini</MaintenanceToolIniFile>
+    <RemoveTargetDir>false</RemoveTargetDir>
+    <AllowNonAsciiCharacters>true</AllowNonAsciiCharacters>
+    <RepositorySettingsPageVisible>false</RepositorySettingsPageVisible>
+    <AllowSpaceInPath>true</AllowSpaceInPath>
+    <TargetConfigurationFile>WakfuModUpdater.xml</TargetConfigurationFile>
+    <Translations>
+        <Translation>en.qm</Translation>
+    </Translations>
+    <ControlScript>installer.js</ControlScript>
+</Installer>
