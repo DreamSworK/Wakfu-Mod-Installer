@@ -129,6 +129,7 @@
 		<color id="whiteColor" color="1, 1, 1, 1"/>
 
 		<color id="xpColor" color="0, 0.514, 0.5, 1"/>
+		<color id="ogrestColor" color="0.18,0.66,0.63, 1"/>
 		<color id="protectorColor" color="0.99,0.7,0.14, 1"/>
 		<color id="wakfuColor" color="0.28,0.86,0.83, 1"/>
 		<color id="wakfuBarColor" color="0.3, 0.3, 0.3, 1"/>
@@ -246,6 +247,8 @@
 		<texture id="wabbitGood" path="theme/images/wabbitGood.tga"/>
 		<texture id="loginBackground" path="theme/images/loginBackground.tga"/>
 
+		<texture id="gemCircle" path="theme/images/gemCircleWhite.tga"/>
+		<texture id="gemTriangle" path="theme/images/gemTriangleWhite.tga"/>
 		<texture id="gemAttack" path="theme/images/gemAttack.tga"/>
 		<texture id="gemDefense" path="theme/images/gemDefense.tga"/>
 		<texture id="gemSupport" path="theme/images/gemSupport.tga"/>
@@ -6654,6 +6657,15 @@
 			</LabelAppearance>
 		</themeElement>
 	</labelWhite>
+
+	<labelRed>
+		<themeElement type="label">
+			<LabelAppearance alignment="west">
+				<Font ref="defaultFont"/>
+				<Color ref="greenColor"/>
+			</LabelAppearance>
+		</themeElement>
+	</labelRed>
 
 	<labelCenter>
 		<themeElement type="label">
@@ -13878,6 +13890,15 @@
 		</themeElement>
 	</progressBarXP2>
 
+	<progressBarOgrest>
+		<themeElement type="progressBar">
+			<progressBarAppearance>
+				<color ref="ogrestColor"/>
+			</progressBarAppearance>
+			<Pixmap texture="themeSimple2" position="center" x="299" y="254" width="1" height="12"/>
+		</themeElement>
+	</progressBarOgrest>
+
 	<progressBarPvp>
 		<themeElement type="progressBar">
 			<progressBarAppearance>
@@ -19649,6 +19670,20 @@
 			</ImageAppearance>
 		</themeElement>
 	</imageGemATTACKWhite>
+	<imageGemCIRCLEWhite>
+		<themeElement type="image">
+			<ImageAppearance>
+				<Pixmap texture="gemCircle" position="center" x="0" y="0" width="24" height="24"/>
+			</ImageAppearance>
+		</themeElement>
+	</imageGemCIRCLEWhite>
+	<imageGemTRIANGLEWhite>
+		<themeElement type="image">
+			<ImageAppearance>
+				<Pixmap texture="gemTriangle" position="center" x="0" y="0" width="24" height="24"/>
+			</ImageAppearance>
+		</themeElement>
+	</imageGemTRIANGLEWhite>
 
 	<imageGemBackgroundWhite>
 		<themeElement type="image">
@@ -23149,6 +23184,24 @@
 		</themeElement>
 	</imageBoosterBonusLock>
 
+	<containerTurnCounter>
+		<themeElement type="container">
+			<appearance>
+				<pixmapBackground scaled="true">
+					<Pixmap texture="themeSimple2" position="NORTH_WEST" x="1910" y="759" width="83" height="48"/>
+					<Pixmap texture="themeSimple2" position="WEST" x="1910" y="0" width="83" height="0"/>
+					<Pixmap texture="themeSimple2" position="SOUTH_WEST" x="1910" y="0" width="83" height="0"/>
+					<Pixmap texture="themeSimple2" position="NORTH" x="1997" y="759" width="1" height="48"/>
+					<Pixmap texture="themeSimple2" position="CENTER" x="1997" y="0" width="1" height="0"/>
+					<Pixmap texture="themeSimple2" position="SOUTH" x="1997" y="0" width="1" height="0"/>
+					<Pixmap texture="themeSimple2" position="NORTH_EAST" x="1997" y="1131" width="0" height="48"/>
+					<Pixmap texture="themeSimple2" position="EAST" x="1997" y="0" width="0" height="0"/>
+					<Pixmap texture="themeSimple2" position="SOUTH_EAST" x="1997" y="0" width="0" height="0"/>
+				</pixmapBackground>
+			</appearance>
+		</themeElement>
+	</containerTurnCounter>
+
 	<imageCraftUpgrade>
 		<themeElement type="image">
 			<imageAppearance>
@@ -23156,5 +23209,48 @@
 			</imageAppearance>
 		</themeElement>
 	</imageCraftUpgrade>
+
+	<imageOgrest>
+		<themeElement type="image">
+			<imageAppearance>
+				<Pixmap texture="themeSimple2" position="center" x="1305" y="402" width="44" height="55"/>
+			</imageAppearance>
+		</themeElement>
+	</imageOgrest>
+
+	<containerProgrestBar>
+		<themeElement type="container">
+			<appearance>
+				<pixmapBackground scaled="true">
+					<Pixmap texture="themeSimple" position="NORTH" x="408" y="703" width="35" height="1" rotation="quarter_clockwise"/>
+					<Pixmap texture="themeSimple" position="EAST" x="447" y="666" width="1" height="33" rotation="quarter_clockwise"/>
+					<Pixmap texture="themeSimple" position="WEST" x="447" y="708" width="1" height="33" rotation="quarter_clockwise"/>
+					<Pixmap texture="themeSimple" position="SOUTH" x="452" y="703" width="35" height="1" rotation="quarter_clockwise"/>
+					<Pixmap texture="themeSimple" position="CENTER" x="447" y="703" width="1" height="1" rotation="quarter_clockwise"/>
+					<Pixmap texture="themeSimple" position="NORTH_EAST" x="408" y="666" width="35" height="33" rotation="quarter_clockwise"/>
+					<Pixmap texture="themeSimple" position="NORTH_WEST" x="408" y="708" width="35" height="33" rotation="quarter_clockwise"/>
+					<Pixmap texture="themeSimple" position="SOUTH_EAST" x="452" y="666" width="35" height="33" rotation="quarter_clockwise"/>
+					<Pixmap texture="themeSimple" position="SOUTH_WEST" x="452" y="708" width="35" height="33" rotation="quarter_clockwise"/>
+				</pixmapBackground>
+			</appearance>
+		</themeElement>
+	</containerProgrestBar>
+
+	<buttonCompass>
+		<themeElement type="button">
+			<buttonAppearance state="default">
+				<Pixmap texture="themeDefault" position="center" x="473" y="882" width="22" height="21"/>
+			</buttonAppearance>
+			<buttonAppearance state="mouseHover">
+				<Pixmap texture="themeOver" position="center" x="473" y="882" width="22" height="21"/>
+			</buttonAppearance>
+			<buttonAppearance state="pressed">
+				<Pixmap texture="themePressed" position="center" x="473" y="882" width="22" height="21"/>
+			</buttonAppearance>
+			<buttonAppearance state="disabled">
+				<Pixmap texture="themeDisabled" position="center" x="473" y="882" width="22" height="21"/>
+			</buttonAppearance>
+		</themeElement>
+	</buttonCompass>
 
 </theme>

@@ -95,20 +95,6 @@
   <SHA1>90ed168f4ee25c4fbc0cc952900b41bd1e9563b9</SHA1>
  </PackageUpdate>
  <PackageUpdate>
-  <Name>wakfu.mod.theme</Name>
-  <DisplayName>Custom Theme</DisplayName>
-  <Description xml:lang="en">Custom theme with bigger fonts.</Description>
-  <Description xml:lang="ru">Интерфейс с увеличенными шрифтами.</Description>
-  <Version>0.9.0</Version>
-  <ReleaseDate>2017-08-12</ReleaseDate>
-  <SortingPriority>80</SortingPriority>
-  <Default>false</Default>
-  <Script>mod.js</Script>
-  <UpdateFile OS="Any" CompressedSize="65208" UncompressedSize="1080547"/>
-  <DownloadableArchives>theme.7z</DownloadableArchives>
-  <SHA1>dec6233c96a1ec5b1b29bc562ec1525ddd15a3d5</SHA1>
- </PackageUpdate>
- <PackageUpdate>
   <Name>wakfu.mod.rus</Name>
   <DisplayName>Russian Localization</DisplayName>
   <Description xml:lang="en">Russian Localization. Translated: https://github.com/Valianton/Wakfu-Translate</Description>
@@ -121,5 +107,19 @@
   <UpdateFile OS="Any" CompressedSize="2107813" UncompressedSize="11823875"/>
   <DownloadableArchives>rus.7z</DownloadableArchives>
   <SHA1>8e0b50e6395f818c8a638e6c9a87bc957afbff9a</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>wakfu.mod.theme</Name>
+  <DisplayName>Custom Theme</DisplayName>
+  <Description xml:lang="en">Custom theme with bigger fonts.</Description>
+  <Description xml:lang="ru">Интерфейс с увеличенными шрифтами.</Description>
+  <Version>0.9.1</Version>
+  <ReleaseDate>2017-09-06</ReleaseDate>
+  <SortingPriority>80</SortingPriority>
+  <Default>false</Default>
+  <Script>mod.js</Script>
+  <UpdateFile CompressedSize="65561" OS="Any" UncompressedSize="1085040"/>
+  <DownloadableArchives>theme.7z</DownloadableArchives>
+  <SHA1>232b9de9e88cc352bed33d9f3e26c05c6a39da4f</SHA1>
  </PackageUpdate>
 </Updates>
