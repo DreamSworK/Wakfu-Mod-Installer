@@ -1,1 +1,1 @@
-tools/win/repogen --update -p packages repository
+tools\win\repogen --update -p packages repository
