@@ -113,13 +113,13 @@
   <DisplayName>Russian Localization</DisplayName>
   <Description xml:lang="en">Russian Localization. Translated: https://github.com/Valianton/Wakfu-Translate</Description>
   <Description xml:lang="ru">Руссификация Wakfu. Перевод: https://github.com/Valianton/Wakfu-Translate</Description>
-  <Version>1.6.27</Version>
-  <ReleaseDate>2018-06-02</ReleaseDate>
+  <Version>1.6.28</Version>
+  <ReleaseDate>2018-07-14</ReleaseDate>
   <SortingPriority>100</SortingPriority>
   <Default>true</Default>
   <Script>mod.js</Script>
-  <UpdateFile CompressedSize="2185778" UncompressedSize="13457390" OS="Any"/>
+  <UpdateFile UncompressedSize="13898723" CompressedSize="2209231" OS="Any"/>
   <DownloadableArchives>rus.7z</DownloadableArchives>
-  <SHA1>9b34795e207caeeb3fa1a98cd05ad0ab4652f742</SHA1>
+  <SHA1>d4753d6a0dddfe7106793830bd8c689c2ecd152e</SHA1>
  </PackageUpdate>
 </Updates>
